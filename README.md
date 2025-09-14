@@ -115,3 +115,6 @@ doc: `https://docs.expo.dev/push-notifications/fcm-credentials/`
 All done for this, now we can send the notification on expo notication tool, the dev build app will recieve the notification
 
 we have linked our expo project with FCM and if we trigger the notification with token, it sends the request to FCM and then FCM sends that to our App!!!
+
+this is implemented on Android Only!
+⚠️Remember: Push notifications only work on real iPhones, not iOS Simulator.
