@@ -45,8 +45,8 @@ app/index.tsx - code for the notification approval and getting the notification 
 `npx expo install expo-dev-client` : install dev client
 
 `eas build --platform android --profile development` : take an dev build, after that install the app, now if u run the server it will automatically runs in developement build mode
-<img width="715" height="407" alt="image" src="https://github.com/user-attachments/assets/9ed37a3d-b00f-47ab-9bd7-9d84c299c3ab" />
 
+<img width="715" height="407" alt="image" src="https://github.com/user-attachments/assets/9ed37a3d-b00f-47ab-9bd7-9d84c299c3ab" />
 
 doc: `https://docs.expo.dev/tutorial/eas/android-development-build/`
 
