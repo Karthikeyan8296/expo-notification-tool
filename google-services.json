@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "263599437076",
+    "project_id": "notification-expo-989f6",
+    "storage_bucket": "notification-expo-989f6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:263599437076:android:eca2593a1b54955438fe01",
+        "android_client_info": {
+          "package_name": "com.karthikandroid.exponotificationtool"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEDALKu2sFbkGvhZmCR2IkIDNU7MzWPjQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
