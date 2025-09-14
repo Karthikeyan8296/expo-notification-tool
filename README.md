@@ -118,3 +118,28 @@ we have linked our expo project with FCM and if we trigger the notification with
 
 this is implemented on Android Only!
 ⚠️Remember: Push notifications only work on real iPhones, not iOS Simulator.
+
+
+Steps Left for iOS Notifications
+
+1. Go to Expo Dev Dashboard → your project → Credentials → iOS → Push Notifications Key
+
+2. Upload your .p8 file.
+
+3. Enter Key ID and Team ID (from Apple Dev account).
+
+4. Rebuild your iOS app with EAS
+```
+eas build -p ios
+```
+
+(or take a Dev Build if you just want to test).
+```
+eas build --platform ios --profile development
+```
+
+Install on a real iPhone (⚠️ push won’t work in iOS simulator).
+
+5. Run your app → request notification permission → get Expo Push Token → test with Expo Notification Tool.
+
+🎉🎉🎉
