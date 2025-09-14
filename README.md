@@ -51,6 +51,7 @@ app/index.tsx - code for the notification approval and getting the notification 
 doc: [`https://docs.expo.dev/develop/development-builds/create-a-build/`](https://docs.expo.dev/develop/development-builds/create-a-build/)
 
 doc: [`https://docs.expo.dev/tutorial/eas/android-development-build/`](https://docs.expo.dev/tutorial/eas/android-development-build/)
+
 After that we need to configure the FCM:
 Create Firebase project
 
