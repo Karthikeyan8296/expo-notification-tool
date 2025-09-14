@@ -110,7 +110,7 @@ After this, Obtain Google Service Account Keys using FCM V1 and paste it on Cred
 
 Project - service account - generate private key - download that and paste it on Credentials on expo.dev
 
-doc: `https://docs.expo.dev/push-notifications/fcm-credentials/`
+doc: [`https://docs.expo.dev/push-notifications/fcm-credentials/`](https://docs.expo.dev/push-notifications/fcm-credentials/)
 
 All done for this, now we can send the notification on expo notication tool, the dev build app will recieve the notification
 
